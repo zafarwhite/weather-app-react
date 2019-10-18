@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
-import Info from './components/Info.jsx.js';
-import Form from './components/Form.jsx.js';
-import Weather from './components/Weather.jsx.js';
+import Info from './components/Info.jsx';
+import Form from './components/Form.jsx';
+import Weather from './components/Weather.jsx';
 
 const API_KEY = 'ab79ab9927d06b230ed3e415310d864d';
 
